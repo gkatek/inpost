@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package utp.studia.inpost.Dao;
+package utp.studia.inpost;
 
 /**
  *
  * @author Gracjan Katek
  */
-public class WorkerDao {
+public class PostOfficeDao {
     
 }
